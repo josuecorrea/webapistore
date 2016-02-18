@@ -1,0 +1,4 @@
+D:\CursosBaltiere\CWWebStore\CWWebStoreSharedKernel\bin\Debug\CWWebStoreSharedKernel.dll
+D:\CursosBaltiere\CWWebStore\CWWebStoreSharedKernel\bin\Debug\CWWebStoreSharedKernel.pdb
+D:\CursosBaltiere\CWWebStore\CWWebStoreSharedKernel\obj\Debug\CWWebStoreSharedKernel.dll
+D:\CursosBaltiere\CWWebStore\CWWebStoreSharedKernel\obj\Debug\CWWebStoreSharedKernel.pdb

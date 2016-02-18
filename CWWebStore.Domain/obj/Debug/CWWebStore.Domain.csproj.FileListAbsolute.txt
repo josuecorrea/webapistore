@@ -1,0 +1,7 @@
+D:\CursosBaltiere\CWWebStore\CWWebStore.Domain\bin\Debug\CWWebStore.Domain.dll
+D:\CursosBaltiere\CWWebStore\CWWebStore.Domain\bin\Debug\CWWebStore.Domain.pdb
+D:\CursosBaltiere\CWWebStore\CWWebStore.Domain\bin\Debug\CWWebStoreSharedKernel.dll
+D:\CursosBaltiere\CWWebStore\CWWebStore.Domain\bin\Debug\CWWebStoreSharedKernel.pdb
+D:\CursosBaltiere\CWWebStore\CWWebStore.Domain\obj\Debug\CWWebStore.Domain.csprojResolveAssemblyReference.cache
+D:\CursosBaltiere\CWWebStore\CWWebStore.Domain\obj\Debug\CWWebStore.Domain.dll
+D:\CursosBaltiere\CWWebStore\CWWebStore.Domain\obj\Debug\CWWebStore.Domain.pdb

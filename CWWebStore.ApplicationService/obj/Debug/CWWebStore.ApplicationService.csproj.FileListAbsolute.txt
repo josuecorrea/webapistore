@@ -1,0 +1,13 @@
+D:\CursosBaltiere\CWWebStore\CWWebStore.ApplicationService\bin\Debug\CWWebStore.ApplicationService.dll
+D:\CursosBaltiere\CWWebStore\CWWebStore.ApplicationService\bin\Debug\CWWebStore.ApplicationService.pdb
+D:\CursosBaltiere\CWWebStore\CWWebStore.ApplicationService\bin\Debug\CWWebStore.Domain.dll
+D:\CursosBaltiere\CWWebStore\CWWebStore.ApplicationService\bin\Debug\CWWebStore.Infra.dll
+D:\CursosBaltiere\CWWebStore\CWWebStore.ApplicationService\bin\Debug\CWWebStoreSharedKernel.dll
+D:\CursosBaltiere\CWWebStore\CWWebStore.ApplicationService\bin\Debug\EntityFramework.dll
+D:\CursosBaltiere\CWWebStore\CWWebStore.ApplicationService\bin\Debug\CWWebStore.Domain.pdb
+D:\CursosBaltiere\CWWebStore\CWWebStore.ApplicationService\bin\Debug\CWWebStore.Infra.pdb
+D:\CursosBaltiere\CWWebStore\CWWebStore.ApplicationService\bin\Debug\CWWebStoreSharedKernel.pdb
+D:\CursosBaltiere\CWWebStore\CWWebStore.ApplicationService\bin\Debug\EntityFramework.xml
+D:\CursosBaltiere\CWWebStore\CWWebStore.ApplicationService\obj\Debug\CWWebStore.ApplicationService.csprojResolveAssemblyReference.cache
+D:\CursosBaltiere\CWWebStore\CWWebStore.ApplicationService\obj\Debug\CWWebStore.ApplicationService.dll
+D:\CursosBaltiere\CWWebStore\CWWebStore.ApplicationService\obj\Debug\CWWebStore.ApplicationService.pdb

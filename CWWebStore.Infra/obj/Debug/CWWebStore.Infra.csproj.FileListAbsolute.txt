@@ -1,0 +1,14 @@
+D:\CursosBaltiere\CWWebStore\CWWebStore.Infra\bin\Debug\CWWebStore.Infra.dll.config
+D:\CursosBaltiere\CWWebStore\CWWebStore.Infra\bin\Debug\CWWebStore.Infra.dll
+D:\CursosBaltiere\CWWebStore\CWWebStore.Infra\bin\Debug\CWWebStore.Infra.pdb
+D:\CursosBaltiere\CWWebStore\CWWebStore.Infra\bin\Debug\CWWebStore.Domain.dll
+D:\CursosBaltiere\CWWebStore\CWWebStore.Infra\bin\Debug\EntityFramework.dll
+D:\CursosBaltiere\CWWebStore\CWWebStore.Infra\bin\Debug\EntityFramework.SqlServer.dll
+D:\CursosBaltiere\CWWebStore\CWWebStore.Infra\bin\Debug\CWWebStoreSharedKernel.dll
+D:\CursosBaltiere\CWWebStore\CWWebStore.Infra\bin\Debug\CWWebStore.Domain.pdb
+D:\CursosBaltiere\CWWebStore\CWWebStore.Infra\bin\Debug\EntityFramework.xml
+D:\CursosBaltiere\CWWebStore\CWWebStore.Infra\bin\Debug\EntityFramework.SqlServer.xml
+D:\CursosBaltiere\CWWebStore\CWWebStore.Infra\bin\Debug\CWWebStoreSharedKernel.pdb
+D:\CursosBaltiere\CWWebStore\CWWebStore.Infra\obj\Debug\CWWebStore.Infra.csprojResolveAssemblyReference.cache
+D:\CursosBaltiere\CWWebStore\CWWebStore.Infra\obj\Debug\CWWebStore.Infra.dll
+D:\CursosBaltiere\CWWebStore\CWWebStore.Infra\obj\Debug\CWWebStore.Infra.pdb
